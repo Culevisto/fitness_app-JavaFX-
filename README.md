@@ -30,7 +30,7 @@ All entries are stored in a local CSV file (`steps.csv`) for easy persistence an
 ## ▶️ Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/fitness_app-JavaFX.git
+   git clone https://github.com/Culevisto/fitness_app-JavaFX.git
    - Open in IntelliJ IDEA (or another Java IDE).
 2 - Run the app with Java 17+ and JavaFX SDK installed.
 3 - Interact with the app to add, update, or delete step entries.
