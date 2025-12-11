@@ -26,6 +26,9 @@ All entries are stored in a local CSV file (`steps.csv`) for easy persistence an
 
 <img width="1772" height="1160" alt="image" src="https://github.com/user-attachments/assets/210e5617-50ef-4097-9d5f-bcd5a30934bf" />
 
+## Video
+https://drive.google.com/drive/u/0/folders/1cQssZ55fSJ3te_VbYNMmKUFM57Bxv5EQ
+
 
 ## ▶️ Usage
 1. Clone the repository:
